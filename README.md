@@ -1,7 +1,5 @@
 # SnowFlake
 SnowFlake 雪花算法的简单分析和代码样例
-# SnowFlake(雪花算法)
-
 ### 结构组成
 
 SnowFlake算法生成ID的结果是一个64bit大小的整数，它的结构如下：
@@ -24,8 +22,11 @@ SnowFlake算法生成ID的结果是一个64bit大小的整数，它的结构如�
 
 
 作者：SmartBin
+
 链接：https://www.jianshu.com/p/2a27fbd9e71a
+
 来源：简书
+
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ### 各部分位移运算再做合并运算
